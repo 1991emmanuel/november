@@ -1,0 +1,9 @@
+x = 10
+y = 9
+if x < y 
+print('bienvenido')
+elif x > y:
+print('que quieres hacer')
+else:
+print('x e y se entienden')
+
